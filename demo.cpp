@@ -2,7 +2,15 @@
 
 using namespace std;
 
+
 void bubblesort(){
+    // 
+}
+void quicksort(){
+    // 
+}
+
+void mergesort(){
     // 
 }
 
